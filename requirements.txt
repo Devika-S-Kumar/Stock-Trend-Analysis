@@ -8,3 +8,5 @@ sklearn.preprocessing
 tensorflow
 keras.layers 
 keras.models
+streamlit
+openpyxl
