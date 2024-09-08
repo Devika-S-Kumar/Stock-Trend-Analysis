@@ -3,8 +3,8 @@ pandas
 matplotlib
 pandas_datareader 
 yfinance 
-keras.models 
+keras
 streamlit 
-sklearn.preprocessing
-keras.layers
+sklearn
+keras
 tensorflow
